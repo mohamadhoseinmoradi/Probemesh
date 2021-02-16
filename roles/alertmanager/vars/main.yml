@@ -1,0 +1,5 @@
+---
+alertmanager_version: "alm_version"
+user_id: "alertmanager"
+group_id: "alertmanager"
+ansible_user: "your_user"

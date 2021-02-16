@@ -1,0 +1,6 @@
+#---
+# vars file for nodeexporter
+node_exporter_version: "node_exporter_version"
+user_id: "node_exporter"
+group_id: "node_exporter"
+ansible_user: "your_user"

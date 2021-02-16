@@ -1,0 +1,6 @@
+---
+# vars file for blackbox
+blackbox_exporter_version: "blackbox_version"
+user_id: "blackbox"
+group_id: "blackbox"
+ansible_user: "your_user"

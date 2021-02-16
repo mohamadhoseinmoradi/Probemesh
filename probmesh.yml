@@ -1,0 +1,12 @@
+---
+
+- hosts: node
+  become: true
+
+  roles:
+    - prom
+    - nodeexporter
+    - ufw
+    - telegraf
+    - blackbox  
+    - alertmanager

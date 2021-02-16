@@ -1,0 +1,14 @@
+---
+# tasks file for ufw
+
+    - name: Configure UFW
+      ufw:
+        rule: allow
+        port: "x"
+        proto: tcp
+        src: "x.x.x.x/x"
+        comment: ""
+        policy: allow
+        state: reloaded
+      tags: "ufw"
+

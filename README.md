@@ -1,2 +1,2 @@
-# Probemesh
-Observability and alerting solution
+# probemesh
+ an ansible role to deploy all monitoring infrastructure and tools .
